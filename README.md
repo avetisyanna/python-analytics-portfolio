@@ -1,8 +1,5 @@
 # Python Data Analytics Portfolio
 
-## 📝 Project Overview
-A brief description of what this project explores.
-
 ## 📂 Project Structure
 * **data/**: Contains raw and processed CSV files.
 * **notebooks/**: Jupyter notebooks detailing the analysis process.
