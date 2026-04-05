@@ -1,4 +1,4 @@
-# Python Data Analytics Portfolio
+# 📈 Python Data Analytics Portfolio
 
 This repository documents my progression from Python fundamentals to advanced business analytics. The project is structured as a technical roadmap, evolving from data cleaning to interactive storytelling and customer behavioral analysis.
 
@@ -40,14 +40,12 @@ Applied analytical models to real-world scenarios, specifically implementing **R
 1. **Clone this repository**:
    ```bash
    git clone <your-repo-link>
-
-## 🚀 How to Run
-1. Clone this repository.
+   ```
 2. Unzipping Archive.zip file:
 ```py
 import zipfile
 with zipfile.ZipFile("../data/raw/Archive.zip", "r") as zip_ref:
     zip_ref.extractall("../data/raw")
 ```
-1. Activate the virtual environment: `source myenv/Scripts/activate`
-2. Open the notebooks in the `notebooks/` folder.
+3. Activate the virtual environment: `source myenv/Scripts/activate`
+4. Open the notebooks in the `notebooks/` folder.
